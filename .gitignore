@@ -1,6 +1,4 @@
 __pycache__
 base_model 
 best_model 
-dataset_csvs 
-dataset_parquets 
 tokenizer
